@@ -6,3 +6,6 @@ phpmyadmin
 
 # proxy #
 php-web-proxy
+
+# vscode #
+.vscode
