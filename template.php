@@ -12,10 +12,8 @@
     <div class="row">
         <div class="col-xs-5">
             <xmp>
-                <code>
-                    <!-- 시작 -->
-                    <!-- 끝 -->
-                </code>
+                <!-- 시작 -->
+                <!-- 끝 -->
             </xmp>
         </div>
         <div class="col-xs-2">

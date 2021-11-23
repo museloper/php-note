@@ -12,20 +12,16 @@
     <div class="row">
         <div class="col-xs-5">
             <xmp>
-                <code>
-                    <!DOCTYPE html>
-                    <html lang="ko">
-                    <head>
-                        <meta charset="UTF-8">
-                        <title>PHP Syntax</title>
-                    </head>
-                    <body>
-                    <?
-                        echo "PHP 수업에 잘 오셨습니다!"
-                    ?>
-                    </body>
-                    </html>
-                </code>
+                <!DOCTYPE html>
+                <html lang="ko">
+                <head>
+                    <meta charset="UTF-8">
+                    <title>PHP Syntax</title>
+                </head>
+                <body>
+                <? echo "PHP 수업에 잘 오셨습니다!" ?>
+                </body>
+                </html>
             </xmp>
         </div>
         <div class="col-xs-2">
@@ -39,9 +35,7 @@
                 <title>PHP Syntax</title>
             </head>
             <body>
-            <?php
-                echo "PHP 수업에 잘 오셨습니다!"
-            ?>
+            <?php echo 'PHP 수업에 잘 오셨습니다!'; ?>
             </body>
             </html>
         </div>

@@ -9,3 +9,9 @@ php-web-proxy
 
 # vscode #
 .vscode
+
+# prettierrc #
+.prettierrc
+
+# prettierignore #
+.prettierignore
