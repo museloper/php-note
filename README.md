@@ -9,3 +9,5 @@
 ## 2. PHP 기초
 
 1. [PHP 변수](./tcpschool/basics/variable.md)
+
+2. [PHP 상수](./tcpschool/basics/constant.md)

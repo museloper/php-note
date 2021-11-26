@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>define() 함수</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-xs-5">
+            <xmp>
+                <?
+                    function defFunc() {
+                        echo PHP;
+                        define("PHP", "<br />PHP 수업에 잘 오셨습니다!");
+                        echo PHP;
+                    }
+                    
+                    defFunc();
+                    echo PHP;
+                ?>
+            </xmp>
+        </div>
+        <div class="col-xs-2">
+            <!-- 공백 -->
+        </div>
+        <div class="col-xs-5">
+            <?php
+                function defFunc() {
+                    echo PHP;
+                    define("PHP", "<br />PHP 수업에 잘 오셨습니다!");
+                    echo PHP;
+                }
+                
+                defFunc();
+                echo PHP;
+            ?>
+        </div>
+    </div>
+</div>
+</body>
+</html>
