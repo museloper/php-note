@@ -11,3 +11,9 @@
 1. [PHP 변수](./tcpschool/basics/variable.md)
 
 2. [PHP 상수](./tcpschool/basics/constant.md)
+
+<br />
+
+## 3. PHP 연산자
+
+1. [PHP 기타 연산자](./tcpschool/operator/operator__other.md)
