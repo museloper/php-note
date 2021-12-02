@@ -25,3 +25,13 @@
 1. [PHP 조건문](./tcpschool/control/conditionals.md)
 
 2. [PHP 반복문](./tcpschool/control/loops.md)
+
+<br />
+
+## 5. PHP 배열
+
+1. [PHP 배열의 기초](./tcpschool/array/array__basics.md)
+
+2. [PHP 다차원 배열](./tcpschool/array/array__multidimensional.md)
+
+3. [PHP 연관 배열](./tcpschool/array/array__associative.md)
