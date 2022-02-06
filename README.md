@@ -35,3 +35,9 @@
 2. [PHP 다차원 배열](./tcpschool/array/array__multidimensional.md)
 
 3. [PHP 연관 배열](./tcpschool/array/array__associative.md)
+
+<br />
+
+## 6. MySQL
+
+1. [PHP MySQL 연결](./tcpschool/mysql/mysql__connect.md)
